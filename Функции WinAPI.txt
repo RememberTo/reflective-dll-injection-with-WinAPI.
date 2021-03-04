@@ -1,5 +1,0 @@
-CreateRemoteThread ()
-ReflectiveLoader
-LoadLibraryA 
-GetProcAddress 
-VirtualAlloc
