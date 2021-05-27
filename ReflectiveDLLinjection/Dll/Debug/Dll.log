@@ -1,0 +1,4 @@
+﻿  ReflectiveLoader.cpp
+ReflectiveLoader.obj : error LNK2005: _DllMain@12 уже определен в dllmain.obj
+     Создается библиотека C:\Users\fdkir\source\repos\ReflectiveDLLinjection\Debug\Dll.lib и объект C:\Users\fdkir\source\repos\ReflectiveDLLinjection\Debug\Dll.exp
+C:\Users\fdkir\source\repos\ReflectiveDLLinjection\Debug\Dll.dll : fatal error LNK1169: обнаружен многократно определенный символ - один или более
